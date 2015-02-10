@@ -1,0 +1,12 @@
+parse_priv_hdr_scn: section header has an invalid section count 0, should be greater than 0, setting section count to 1 to attempt recovery
+Warning parse_opal_event_log: detected missing section in opal event log
+Warning parse_opal_event_log: detected missing section in opal event log
+Warning parse_opal_event_log: detected missing section in opal event log
+Warning parse_opal_event_log: detected opal event log sections out of order
+Warning parse_opal_event_log: detected missing section in opal event log
+ERROR parse_section_header: section header is corrupt. Length < 8 bytes and must be at least 8 bytes to include the length of itself. Id 0x00 Length 0 Version 0 Subtype 0 Component ID: 0
+ERROR parse_opal_event_log: Could not parse section header, giving up
+parse_priv_hdr_scn: section header has an invalid section count 0, should be greater than 0, setting section count to 1 to attempt recovery
+Warning parse_opal_event_log: detected missing section in opal event log
+parse_priv_hdr_scn: section header has an invalid section count 0, should be greater than 0, setting section count to 1 to attempt recovery
+Warning parse_opal_event_log: detected missing section in opal event log

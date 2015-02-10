@@ -1,0 +1,11 @@
+|------------------------------------------------------------------------------|
+|ID       Date       Time     SRC        Creator           Event Severity      |
+|------------------------------------------------------------------------------|
+|00000003 2014-03-13 13:01:56 ?UNKNOWN ? Unknown           ?UNKNOWN            |
+|50000004 2000-12-31 10:14:44 ?UNKNOWN ? OPAL              ?UNKNOWN            |
+|50000006 2014-03-14 14:37:00 ?UNKNOWN ? OPAL              ?UNKNOWN            |
+|5034A000 2014-03-13 08:15:55 11007201 + Service Processor Predictive Error    |
+|5055ED2E 2014-02-18 06:43:54 B182950C   Service Processor Informational Event |
+|Couldn't opal_event_summarise for file test_parse_000.raw ret=-1              |
+|00000002 0000-00-00 00:00:00 ?UNKNOWN ? Unknown           ?UNKNOWN            |
+|00000002 0000-00-00 00:00:00 ?UNKNOWN ? Unknown           ?UNKNOWN            |

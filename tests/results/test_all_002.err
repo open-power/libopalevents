@@ -1,0 +1,2 @@
+Warning parse_opal_event_log: detected missing section in opal event log
+Warning parse_opal_event_log: detected opal event log sections out of order
