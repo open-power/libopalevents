@@ -1,5 +1,4 @@
 prefix=@prefix@
-exec_prefix=@exec_prefix@
 includedir=@includedir@
 libdir=@libdir@
 
@@ -8,4 +7,4 @@ Description: OPAL event helping library
 URL: somewhere
 Version: @PACKAGE_VERSION@
 Cflags: -I${includedir}/libopalevents
-Libs: -Wl,-rpath -Wl,${libdir} -L${libdir} -lopalevents
+Libs: -L${libdir} -lopalevents
