@@ -1,0 +1,5 @@
+libopalevents (0-1) DISTRO; urgency=low
+
+  * Initial release (Closes: #1234) <I will get one of these>
+
+ -- Cyril Bur <cyril.bur@au1.ibm.com>  Thu, 19 Feb 2015 13:44:08 +1100
